@@ -1,3 +1,6 @@
+# Deprecation notice
+This repository is not maintained anymore.
+
 # Bitcoin CLI GraphQL API
 
 This is a simple server for any Bitcoin Node that has bitcoin-cli installed and the RPC server activated.
